@@ -57,7 +57,7 @@ Includes:
 ---
 
 ## 🔍 Image Filtering with BLIP
-Use `filter_hose_images_blip.py` to automatically discard non-relevant images (like hoses) that may be visually similar to snakes.
+Use `filter_hose_images_blip.py` to automatically discard non-relevant images.
 ---
 
 ## 📦 Requirements
